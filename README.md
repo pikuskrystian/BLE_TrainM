@@ -15,6 +15,6 @@ Project is created with:
 
 #### The Presentation
 For this particular project, a presentation was made, which visually presents the scope of work and the technologies used.
-It was written in English. Link bellow.
+It was written in English. Link bellow:
 
 ![The Presentation](mobileapp_eng.pdf "Presentation")
